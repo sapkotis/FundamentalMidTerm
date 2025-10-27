@@ -177,7 +177,7 @@ print(find_max(numbers))
 ## Part 4: Coding Problems (40 points)
 
 ### Question 18 (15 points)
-Write a function called `is_palindrome` that takes a string as input and returns `True` if the string is a palindrome (reads the same forwards and backwards, ignoring spaces and case) and `False` otherwise.
+Write a function called `is_palindrome` that takes a string as input and returns `True` if the string is a palindrome (reads the same forwards and backwards) and `False` otherwise. Your function should ignore spaces and be case-insensitive. You may assume the input only contains letters and spaces (no punctuation).
 
 **Example:**
 - `is_palindrome("racecar")` → `True`
